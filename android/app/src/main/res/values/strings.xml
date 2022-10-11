@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">elevate_ecommerce</string>
+    <string name="facebook_app_id">446453170973494</string>
+    <string name="fb_login_protocol_scheme">fb446453170973494</string>
+    <string name="facebook_client_token">8618cb893a65a02f544f29bb250d465a</string>
+</resources>

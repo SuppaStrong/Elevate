@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432943315119",
+    "project_id": "elevate-ecommerce-82e30",
+    "storage_bucket": "elevate-ecommerce-82e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432943315119:android:59888fa50b754042aefc5a",
+        "android_client_info": {
+          "package_name": "com.example.elevate_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432943315119-i8b4s1a6s953j1t9ns7kk5vuughcgb96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQjACl55zBP7Zq-Y25-83uLI--frstWzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432943315119-i8b4s1a6s953j1t9ns7kk5vuughcgb96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
